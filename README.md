@@ -1,25 +1,40 @@
 # Kodbud Python Internship
 
-Welcome to the Kodbud Python Internship repository! This repository contains the implementations for various python programming tasks.
+Python programming projects completed as part of my Kodbud Python Programming Internship.
 
-## Directory Structure
+## Completed Tasks
 
-Here is the list of tasks included in this repository:
+| Task | Project | Description |
+|---|---|---|
+| 3 | [Contact Book](./task-3-contact-book/) | CLI contact management application |
+| 4 | [File Renamer](./task-4-file-renamer/) | Bulk file-renaming utility using Python's `os` module |
+| 5 | [Password Strength Checker](./task-5-password-checker/) | Password validation using regular expressions |
+| 7 | [Weather App](./task-7-weather-app/) | Console weather application using the OpenWeatherMap API |
 
-- **[task-3-contact-book](file:///d:/Kodbud-Python-Internship/task-3-contact-book/)**: A Python-based Contact Book application.
-- **[task-4-file-renamer](file:///d:/Kodbud-Python-Internship/task-4-file-renamer/)**: A utility tool for bulk renaming of files in a directory.
-- **[task-5-password-checker](file:///d:/Kodbud-Python-Internship/task-5-password-checker/)**: A tool to evaluate the strength of passwords.
-- **[task-7-weather-app](file:///d:/Kodbud-Python-Internship/task-7-weather-app/)**: A weather app to retrieve and display weather conditions.
+## Technologies
+
+- Python
+- Standard library modules such as `os` and `re`
+- `requests` and JSON for API-based data
+- Git and GitHub
 
 ## Getting Started
 
-To get started with any of the tasks:
+Clone the repository and open the directory for the task you want to run.
 
-1. Navigate to the task directory:
-   ```bash
-   cd task-X-name
-   ```
-2. Follow the specific instructions or run the application:
-   ```bash
-   python main.py
-   ```
+```bash
+git clone https://github.com/vaibhav-agarwal-dev/kodbud-python-internship.git
+cd kodbud-python-internship
+```
+
+Then follow the instructions in the README inside the selected task directory.
+
+## Internship
+
+These projects were completed during the Kodbud Python Programming Internship.
+
+## Author
+
+**Vaibhav Agarwal**
+
+GitHub: [vaibhav-agarwal-dev](https://github.com/vaibhav-agarwal-dev)
