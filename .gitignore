@@ -156,3 +156,5 @@ cython_debug/
 *.njsproj
 *.sln
 *.sw?
+
+task-4-file-renamer/test_files/
